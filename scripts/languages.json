@@ -1,0 +1,57 @@
+{
+    "javascript":
+    {
+        "ext": ".js",
+        "comment": "//"
+    },
+    "cpp":
+    {
+        "ext": ".cpp",
+        "comment": "//"
+    },
+    "c":
+    {
+        "ext": ".c",
+        "comment": "//"
+    },
+    "cs":
+    {
+        "ext": ".cs",
+        "comment": "//"
+    },
+    "java":
+    {
+        "ext": ".java",
+        "comment": "//"
+    },
+    "vb":
+    {
+        "ext": ".vb",
+        "comment": "'"
+    },
+    "php":
+    {
+        "ext": ".php",
+        "comment": "//"
+    },
+    "ruby":
+    {
+        "ext": ".rb",
+        "comment": "#"
+    },
+    "python":
+    {
+        "ext": ".py",
+        "comment": "#"
+    },
+    "perl":
+    {
+        "ext": ".pl",
+        "comment": "#"
+    },
+    "go":
+    {
+        "ext": ".go",
+        "comment": "//"
+    }
+}
