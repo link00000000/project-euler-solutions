@@ -14,5 +14,9 @@
     "cheerio": "^1.0.0-rc.3",
     "figlet": "^1.2.1",
     "prompts": "^2.0.4"
+  },
+  "scripts": {
+    "download": "node generate.js",
+    "generate": "npm run download"
   }
 }
